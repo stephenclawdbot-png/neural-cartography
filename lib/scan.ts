@@ -13,7 +13,7 @@ import {
 } from "./solana";
 
 function demoForced(): boolean {
-  return process.env.LUMINOS_DEMO_MODE === "true";
+  return process.env.VISION_DEMO_MODE === "true";
 }
 
 export async function scanToken(rawInput: string): Promise<ScanResult> {

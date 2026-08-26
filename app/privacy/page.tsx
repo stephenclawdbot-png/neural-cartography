@@ -1,4 +1,4 @@
-export const metadata = { title: "Privacy Policy — Luminos" };
+export const metadata = { title: "Privacy Policy — Vision" };
 
 export default function Privacy() {
   return (
@@ -8,7 +8,7 @@ export default function Privacy() {
 
       <h2>What we process</h2>
       <p>
-        Luminos analyzes <strong>public blockchain data</strong>. When you scan a
+        Vision analyzes <strong>public blockchain data</strong>. When you scan a
         token, the mint address you submit is sent to our API and to the configured
         Solana RPC provider to retrieve on-chain state. We do not ask for, or need,
         your identity or wallet connection to run a scan.

@@ -4,11 +4,11 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Luminos — On-Chain Risk Scanner for Solana Tokens",
+  title: "Vision — On-Chain Risk Scanner for Solana Tokens",
   description:
     "Classify Solana token distribution as Bundled, Cabaled, or Organic. Heuristic, probabilistic manipulation detection — not financial advice.",
   openGraph: {
-    title: "Luminos — On-Chain Risk Scanner",
+    title: "Vision — On-Chain Risk Scanner",
     description: "Bundled / Cabaled / Organic distribution classifier for Solana tokens.",
     type: "website",
   },

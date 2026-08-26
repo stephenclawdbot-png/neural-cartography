@@ -45,7 +45,7 @@ export default function Home() {
           or organic?
         </h1>
         <p className="sub">
-          Paste a token mint. Luminos reads the on-chain distribution — holder
+          Paste a token mint. Vision reads the on-chain distribution — holder
           concentration, funding graph, and contract authorities — and classifies
           how the supply was really formed.
         </p>

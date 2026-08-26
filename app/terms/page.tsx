@@ -1,4 +1,4 @@
-export const metadata = { title: "Terms of Service — Luminos" };
+export const metadata = { title: "Terms of Service — Vision" };
 
 export default function Terms() {
   return (
@@ -6,9 +6,9 @@ export default function Terms() {
       <h1>Terms of Service</h1>
       <p className="subtle">Demonstration terms for a clone project.</p>
 
-      <h2>1. What Luminos is</h2>
+      <h2>1. What Vision is</h2>
       <p>
-        Luminos is an informational tool that classifies on-chain token
+        Vision is an informational tool that classifies on-chain token
         distribution patterns. It is not a broker, exchange, advisor, or custodian,
         and it never takes custody of assets.
       </p>
@@ -30,7 +30,7 @@ export default function Terms() {
 
       <h2>4. Limitation of liability</h2>
       <p>
-        To the maximum extent permitted by law, Luminos and its operators are not
+        To the maximum extent permitted by law, Vision and its operators are not
         liable for any loss or damage arising from use of, or reliance on, the
         service or any verdict it produces.
       </p>

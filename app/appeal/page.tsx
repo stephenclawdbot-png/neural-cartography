@@ -1,11 +1,11 @@
-export const metadata = { title: "Appeal a Verdict — Luminos" };
+export const metadata = { title: "Appeal a Verdict — Vision" };
 
 export default function Appeal() {
   return (
     <div className="container prose">
       <h1>Appeal a verdict</h1>
       <p className="lead">
-        Luminos classifications are probabilistic and can be wrong. If you believe
+        Vision classifications are probabilistic and can be wrong. If you believe
         a token was misclassified, you can contest the verdict.
       </p>
 

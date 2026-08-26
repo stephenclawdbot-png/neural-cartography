@@ -1,6 +1,6 @@
-# Luminos — On-Chain Risk Scanner (clone)
+# Vision — On-Chain Risk Scanner
 
-A Vercel-ready clone of an on-chain risk scanner for Solana tokens. Paste a token
+A Vercel-ready on-chain risk scanner for Solana tokens. Paste a token
 mint and it classifies the supply distribution as **Bundled**, **Cabaled**, or
 **Organic**, with a 0–100 strength score and a confidence level.
 

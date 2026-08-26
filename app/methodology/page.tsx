@@ -1,11 +1,11 @@
-export const metadata = { title: "Methodology — Luminos" };
+export const metadata = { title: "Methodology — Vision" };
 
 export default function Methodology() {
   return (
     <div className="container prose">
       <h1>Methodology</h1>
       <p className="lead">
-        Luminos is an automated distribution classifier. It sorts a token’s
+        Vision is an automated distribution classifier. It sorts a token’s
         holder structure into one of three patterns. It does not predict price,
         rank quality, or certify that anything is safe.
       </p>
@@ -13,7 +13,7 @@ export default function Methodology() {
       <div className="callout">
         Verdicts are <strong>heuristic and probabilistic</strong>. They reflect
         the data available at scan time and can produce false positives and false
-        negatives. Treat a Luminos verdict as one input among many, never as a
+        negatives. Treat a Vision verdict as one input among many, never as a
         decision.
       </div>
 
@@ -55,7 +55,7 @@ export default function Methodology() {
 
       <h2>How a verdict forms</h2>
       <p>
-        Luminos runs dozens of independent signals and looks for{" "}
+        Vision runs dozens of independent signals and looks for{" "}
         <strong>convergence</strong> — several signals pointing the same way. No
         single metric decides a classification. Each scan produces:
       </p>

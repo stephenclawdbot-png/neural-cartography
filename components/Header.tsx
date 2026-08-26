@@ -6,7 +6,7 @@ export function Header() {
       <div className="container inner">
         <Link href="/" className="brand">
           <span className="dot" />
-          Luminos
+          Vision
         </Link>
         <nav className="nav">
           <Link href="/methodology">Methodology</Link>
